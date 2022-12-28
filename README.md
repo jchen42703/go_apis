@@ -12,6 +12,10 @@
    1. DB Migrations
 7. Client SDK
 8. Promethesus/Grafana Dashboards
+9. Must be easily extendible
+   1. Should be able to add databases, caching and change DBs easily
+10. Should be easily tested
+    1. Should be able to test business logic separately from DB
 
 ## Resources
 
