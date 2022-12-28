@@ -3,7 +3,7 @@
 ## API Requirements
 
 1. Router
-2. Controllers
+2. Controllers for both HTTP and GRPC
 3. Request Validators
 4. Auth Middleware
 5. DB
@@ -16,6 +16,8 @@
    1. Should be able to add databases, caching and change DBs easily
 10. Should be easily tested
     1. Should be able to test business logic separately from DB
+11. Should not overly abstract, but should be abstract enough to be testable
+    1. i.e. only abstract what you need to
 
 ## Resources
 
