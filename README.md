@@ -21,6 +21,7 @@
   - `pkg` is antipattern
   - Put stuff into `internal` if you can.
 - https://github.com/golang/go
+- https://itnext.io/golang-and-clean-architecture-19ae9aae5683
 
 ### Package Naming
 
